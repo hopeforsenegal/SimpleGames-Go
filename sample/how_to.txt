@@ -1,0 +1,5 @@
+build:
+go build sample.go && move /y sample.exe bin
+
+run:
+bin\sample

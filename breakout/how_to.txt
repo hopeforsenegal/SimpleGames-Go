@@ -1,0 +1,5 @@
+build:
+go build breakout.go && move /y breakout.exe bin
+
+run:
+bin\breakout

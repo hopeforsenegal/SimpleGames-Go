@@ -1,0 +1,5 @@
+build:
+go build "space invaders.go" && move /y "space invaders.exe" bin
+
+run:
+"bin\space invaders"
